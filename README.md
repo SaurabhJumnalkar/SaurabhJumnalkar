@@ -1,27 +1,40 @@
-<h1 align="center">Hi 👋, I'm Saurabh Jumnalkar</h1>
-<h3 align="center">The passionate learner about data science and different technologies with hands-on experience in web development.</h3>
+# Hi 👋, I'm Saurabh Jumnalkar
 
-- 🌱 I’m currently learning **Neural Networks**
+**Data Scientist | Generative AI Engineer | Robotics Enthusiast**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaurabhJumnalkar](https://github.com/SaurabhJumnalkar)
+I am a Data Scientist with 3+ years of experience specializing in Artificial Intelligence, Machine Learning, and advanced Data Analytics. My core expertise lies in designing and deploying end-to-end Generative AI solutions using LLMs, LangChain, and RAG architectures. I also bring deep experience in architecting enterprise-grade Business Intelligence solutions to drive actionable insights in the Finance and HR domains.
 
-- 💬 Ask me about **Machine learning**
+---
 
-- 📫 How to reach me **saurabhjum@gmail.com**
+### 🚀 What I'm Currently Up To
+- 🧠 **Generative AI & LLMs:** Researching and implementing GenAI solutions, fine-tuning models with LoRA/QLoRA, and working with vector databases (PGVector, ChromaDB, FAISS).
+- ⚙️ **Deployment & Architecture:** Containerizing Python applications with Docker/Kubernetes and integrating AI/ML models into production using FastAPI.
+- 📊 **Advanced Analytics:** Architecting robust Power BI semantic models with Databricks, and automating high-impact HR dashboards to eliminate manual processing.
+- 🌱 **Continuous Learning:** Exploring the bleeding edge of AI, Prompt Engineering, and computer vision technologies.
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1putPDT_KY4z6O1zhBlWxjvqDzGbn4OoQvWXWg9GSRuE/edit?usp=drivesdk](https://docs.google.com/document/d/1putPDT_KY4z6O1zhBlWxjvqDzGbn4OoQvWXWg9GSRuE/edit?usp=drivesdk)
+---
 
-- ⚡ Fun fact **I think I make Laugh**
+### 🛠️ Core Skills & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurabhjumnalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhjumnalkar" height="30" width="40" /></a>
-<a href="https://kaggle.com/saurabh jumnalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saurabh jumnalkar" height="30" width="40" /></a>
-</p>
+**AI, Machine Learning & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-orange?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Cloud, Deployment & Databases**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhjumnalkar&show_icons=true&locale=en&layout=compact" alt="saurabhjumnalkar" /></p>
+**Programming, Web & BI**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhjumnalkar&show_icons=true&locale=en" alt="saurabhjumnalkar" /></p> -->
+---
+
+### 🎬 Beyond the Screen (Extracurriculars & Fun Facts)
+- **Robotics Veteran:** I served as a Robotics Cell Head for 2 years, competed at IIT Kanpur, and won the Roborave India competition. I love making hardware and software shake hands.
+- **Director's Chair:** I love stepping away from code to shoot and edit cinematic digital content. Sometimes, the data just needs a good soundtrack and a cool visual transition. 
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/saurabhJumnalkar](https://www.linkedin.com/in/saurabhJumnalkar/)
+- **Email:** [saurabhjum@gmail.com](mailto:saurabhjum@gmail.com)
+
+*"Driven by curiosity, fueled by data, and always learning."*
